@@ -25,7 +25,7 @@ i am mohit and i am full stack web developer
 <h2 align="center"><img src="https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif" width="32"/> Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,postgres,html,css,tailwind,bootstrap,python,flask,git,github,linux,vscode,figma,vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,flask,git,github,,vscode,figma,,docker" />
 </p>
 
 ---
@@ -65,19 +65,6 @@ i am mohit and i am full stack web developer
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Keep+Building.+Keep+Learning.+Stay+Neon!" />
 </p>
 
----
-
-<h2 align="center"><img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="32"/> Badges & Extras</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest" />
-  <img src="https://img.shields.io/badge/Open%20Source-💻-00FFD6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%94%A5-00FFD6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-00FFD6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Community%20Lover-00FFD6?style=for-the-badge" />
-</p>
-
----
 
 <h2 align="center"><img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="32"/> Let's Connect</h2>
 <p align="center">
