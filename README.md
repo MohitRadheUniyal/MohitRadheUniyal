@@ -25,7 +25,7 @@ i am mohit and i am full stack web developer
 <h2 align="center"><img src="https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif" width="32"/> Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,flask,git,github,,vscode,figma,,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,flask,git,github,vscode,figma,docker" />
 </p>
 
 ---
@@ -40,9 +40,7 @@ i am mohit and i am full stack web developer
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitRadheUniyal&repo=Face-Recognition-Based-Attendance-System-Using-Flask&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
 ---
-
 <h2 align="center"><img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="32"/> GitHub Stats & Activity</h2>
 
 <p align="center">
@@ -54,9 +52,7 @@ i am mohit and i am full stack web developer
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MohitRadheUniyal&style=flat-square&color=00FFD6" alt="profile views"/>
 </p>
-
 ---
-
 <h2 align="center"><img src="https://media.giphy.com/media/2kQbW2Yi9ztr1/giphy.gif" width="32"/> Quote of the Day</h2>
 
 <p align="center">
@@ -64,8 +60,6 @@ i am mohit and i am full stack web developer
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Keep+Building.+Keep+Learning.+Stay+Neon!" />
 </p>
-
-
 <h2 align="center"><img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="32"/> Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/iammohituniyal">
@@ -75,9 +69,7 @@ i am mohit and i am full stack web developer
     <img src="https://img.shields.io/badge/Email-00FFD6?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD6&height=2&section=footer" />
 </p>
