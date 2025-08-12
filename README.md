@@ -1,75 +1,132 @@
-<!-- Neon Techy GitHub Profile README for MohitRadheUniyal: 100/100 Visual & Informational Impact! -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFD6&center=true&vCenter=true&width=700&lines=Hey!+I'm+Mohit;Full+Stack+Web+Developer;Open+Source+Fanatic;Welcome+to+my+Neon+Space+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
+# ⚡ Mohit Uniyal
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontColor=00FFD6" />
-</p>
+### 💻 Full Stack Web Developer × 🚀 Open Source Enthusiast × 🎨 Tech Explorer
+
+*Building the web, one neon pixel at a time.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00FFD6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Passionate+about+Web+Development;Lover+of+Clean+Code+and+Creative+UI;Transforming+Ideas+into+Neon+Reality)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="40"/> About Me</h2>
+## 🛠️ Tech Arsenal
 
-```css
-i am mohit and i am full stack web developer
+<div align="center">
+
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-00FFD6?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFD6?style=for-the-badge&logo=mongodb&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-00FFD6?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-00FFD6?style=for-the-badge&logo=figma&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohitRadheUniyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD6&icon_color=00FFD6&text_color=FFFFFF)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitRadheUniyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD6&text_color=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+<!-- 
+  NOTE: GitHub Streak sometimes does not show if the image service is down, rate-limited, or you don't have enough public contribution streak.
+  This will not break your README if the image fails to load.
+-->
+<p>
+  <img src="https://streak-stats.demolab.com/?user=MohitRadheUniyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD6&ring=00FFD6&fire=FF6B6B&currStreakLabel=00FFD6" alt="GitHub Streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohitRadheUniyal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=MohitRadheUniyal&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true)](https://github.com/MohitRadheUniyal/Tic-Tac-Toe)
+[![Face Recognition Attendance](https://github-readme-stats.vercel.app/api/pin/?username=MohitRadheUniyal&repo=Face-Recognition-Based-Attendance-System-Using-Flask&theme=tokyonight&hide_border=true)](https://github.com/MohitRadheUniyal/Face-Recognition-Based-Attendance-System-Using-Flask)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔥 **Currently Working On** | 🎓 **Learning** | 🎯 **Goals 2025** |
+|:---|:---|:---|
+| Large-scale web apps | Next.js, Typescript | Launch 3+ production projects |
+| Open source contributions | Advanced backend | Give a tech talk at a conference |
+| UI/UX enhancements | DevOps & CI/CD | Grow my developer community |
+
+</div>
+
+---
+
+## 💡 Fun Fact & Motto
+
+<div align="center">
+
+```text
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 ```
-- 🚀 **Current Focus:** Learning full stack web development  
-- 💻 **Portfolio:** Working on it!
-- 🌟 **Interests:** Building awesome web apps, automating life, open source, UI/UX, AI, and coding communities.
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/iammohituniyal) | [Email](mailto:your.email@example.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Keep+Building.+Keep+Learning.+Stay+Neon!" />
+
+</div>
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif" width="32"/> Tech Stack</h2>
+## 🤝 Connect & Collaborate
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,flask,git,github,vscode,figma,docker" />
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFD6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/iammohituniyal)
+[![Email](https://img.shields.io/badge/Email-00FFD6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com) <!-- Update with your real email -->
+
+### 💌 Open to collaboration, freelance, and creative web opportunities!
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="32"/> Featured Projects</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=MohitRadheUniyal&color=00FFD6&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="center">
-  <a href="https://github.com/MohitRadheUniyal/Tic-Tac-Toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitRadheUniyal&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MohitRadheUniyal/Face-Recognition-Based-Attendance-System-Using-Flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitRadheUniyal&repo=Face-Recognition-Based-Attendance-System-Using-Flask&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
----
-<h2 align="center"><img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="32"/> GitHub Stats & Activity</h2>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitRadheUniyal&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FFD6&title_color=00FFD6&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohitRadheUniyal&theme=tokyonight&hide_border=true&dates=00FFD6&currStreakNum=00FFD6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitRadheUniyal&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD6&bg_color=00000000" />
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MohitRadheUniyal&theme=tokyo-night&hide_border=true&area=true" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=MohitRadheUniyal&style=flat-square&color=00FFD6" alt="profile views"/>
-</p>
----
-<h2 align="center"><img src="https://media.giphy.com/media/2kQbW2Yi9ztr1/giphy.gif" width="32"/> Quote of the Day</h2>
-
-<p align="center">
-  <b><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></b>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Keep+Building.+Keep+Learning.+Stay+Neon!" />
-</p>
-<h2 align="center"><img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="32"/> Let's Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/iammohituniyal">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFD6?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-00FFD6?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD6&height=2&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
