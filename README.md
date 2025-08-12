@@ -1,7 +1,7 @@
-<!-- Neon Techy GitHub Profile README for Mohit RadheUniyal: Crafted for 100/100 Visual & Informational Impact! -->
+<!-- Neon Techy GitHub Profile README for MohitRadheUniyal: 100/100 Visual & Informational Impact! -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFD6&center=true&vCenter=true&width=700&lines=Hey!+I'm+Mohit+RadheUniyal;Full+Stack+Web+Developer;Open+Source+Fanatic;Welcome+to+my+Neon+Space+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFD6&center=true&vCenter=true&width=700&lines=Hey!+I'm+Mohit;Full+Stack+Web+Developer;Open+Source+Fanatic;Welcome+to+my+Neon+Space+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
