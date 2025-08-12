@@ -63,7 +63,8 @@
   This will not break your README if the image fails to load.
 -->
 <p>
-  <img src="https://streak-stats.demolab.com/?user=MohitRadheUniyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD6&ring=00FFD6&fire=FF6B6B&currStreakLabel=00FFD6" alt="GitHub Streak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=MohitRadheUniyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD6&ring=00FFD6&fire=FF6B6B&currStreakLabel=00FFD6" alt="GitHub Streak"/>
+
 </p>
 
 ### 🏆 GitHub Trophies
