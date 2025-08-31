@@ -118,7 +118,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFD6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/iammohituniyal)
-[![Email](https://img.shields.io/badge/Email-00FFD6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@example.com) <!-- Update with your real email -->
+[![Email](https://img.shields.io/badge/Email-00FFD6?style=for-the-badge&logo=gmail&logoColor=black)](mailto:mohituniyal440@gmail.com) <!-- Update with your real email -->
 
 ### 💌 Open to collaboration, freelance, and creative web opportunities!
 
